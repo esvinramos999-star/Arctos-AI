@@ -132,3 +132,34 @@ export default function Home() {
     </div>
   );
 }
+# ARCTOS Manifesto
+
+ARCTOS is built on three principles:
+
+1. **Fact First** — Nothing above verified information.
+2. **Neutrality** — No ideology, no bias, no emotional framing.
+3. **Clarity** — Tactical communication. Minimal words, maximum signal.
+
+Tone:
+- Young but disciplined.
+- Calm, direct, operational.
+- No speculation beyond data.
+# ARCTOS — Tactical Fact-First AI
+
+ARCTOS is a neutral, fact-first AI system built on the Mixtral 8x7B architecture (or any model you plug in).
+
+## Features
+- Clean FastAPI backend
+- Tactical interface (Next.js)
+- Voice asset included
+- Docker ready
+- Modular for future upgrades
+
+## Run locally
+1. Install Docker & Docker Compose.
+2. Run:
+MIT License
+
+Copyright (c) 2025 
+
+Permission is hereby granted...
